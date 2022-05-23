@@ -10,4 +10,9 @@
 
 .view-details{
     background-image:url("../images/pictures/Rectangle\ 24.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:600px;
+    width: 47%;
+   
 }
